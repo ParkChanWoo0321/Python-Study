@@ -33,7 +33,7 @@
 
 2. **코드 실행**
     ```bash
-    python gold_miner.py
+    python Gold_Miner.py
     ```
 
 > 이미지 파일이 `.py` 파일과 동일한 폴더에 있어야 정상적으로 실행됩니다.
