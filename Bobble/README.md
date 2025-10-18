@@ -1,4 +1,4 @@
-# 🌟 Puzzle Bobble 🎉
+# 🌟 Bobble Game 🎉
 
 > 파이썬 + Pygame을 활용해 구형한 게임 `Bobble.py`
 
@@ -89,5 +89,6 @@ Bubble 사용: 색상, 경로, 구분도, 도트 방식 작성
 Pointer 방향조정, 발사, 스키치
 경계, 단계체계: 바닥 채워지는 도치 검색 해서 Game Over 처리
 ```
+
 
 
