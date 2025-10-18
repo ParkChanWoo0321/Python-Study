@@ -2,8 +2,6 @@
 
 > 파이썬 + Pygame을 활용해 구형한 게임 `Bobble.py`
 
-<img src="https://user-images.githubusercontent.com/48292190/208243920-b2b22c35-b3d4-4b6c-920f-e92dd3aa4a4e.png" width="400" />
-
 ---
 
 ## 테이블정보
